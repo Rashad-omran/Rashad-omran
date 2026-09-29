@@ -1,11 +1,19 @@
 <div align="center">
 
-<!-- HERO -->
+<!-- ===================================================== -->
+<!-- HERO                                                  -->
+<!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,72:312E81,100:7C3AED&text=RASHAD%20OMRAN&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%C3%97%20CYBERSECURITY&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,72:312E81,100:7C3AED&text=RASHAD%20OMRAN&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%C3%97%20CYBERSECURITY&descAlignY=58&descSize=15&animation=fadeIn"
+/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Building+systems+for+the+real+world.;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Studying+how+systems+break+%E2%80%94+and+how+to+secure+them." alt="Typing animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+systems+for+the+real+world.;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Software+Engineering+%C3%97+Cybersecurity;Understanding+how+systems+work+%E2%80%94+and+how+they+break."
+    alt="Typing animation"
+  />
 </a>
 
 <br/>
@@ -15,111 +23,112 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/rashadomran">
-  <img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    height="32"
+    src="https://img.shields.io/badge/LinkedIn-Rashad%20Omran-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:rashadomran03@gmail.com">
-  <img height="32" src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    height="32"
+    src="https://img.shields.io/badge/Email-Let's%20Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </div>
 
 <br/>
 
-<!-- IDENTITY -->
+<!-- ===================================================== -->
+<!-- PROFILE                                               -->
+<!-- ===================================================== -->
 
-## `// WHO I AM`
+## `01 // PROFILE`
 
-Software engineer working across **web, mobile, and backend systems**.
+I'm a **Software Engineer** working across web, mobile, and backend systems.
 
-I like taking products beyond the interface — thinking about architecture, APIs, data, deployment, and the decisions that keep a system maintainable as it grows.
+I enjoy working beyond the interface — designing APIs, structuring data, thinking through architecture, deployment, and the engineering decisions that allow software to grow without becoming difficult to maintain.
 
-Currently pursuing a **Master's in Cybersecurity**, adding another perspective to the way I approach software: understanding not just how systems are built, but where they can fail and how they can be better protected.
+I'm currently pursuing a **Master's in Cybersecurity**, expanding that perspective from simply building systems to understanding how they behave under pressure, where they fail, and how they can be better protected.
 
 <br/>
 
-<!-- STACK -->
+<!-- ===================================================== -->
+<!-- TOOLKIT                                               -->
+<!-- ===================================================== -->
 
-## `// ENGINEERING TOOLKIT`
+## `02 // ENGINEERING TOOLKIT`
 
 <div align="center">
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,bash&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,redux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,sqlite,firebase&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,git,github,linux,postman,vscode,figma&theme=dark" />
+**LANGUAGES**
 
 <br/>
 
-<sub>
-LANGUAGES · FRONTEND · MOBILE · BACKEND · DATA · INFRASTRUCTURE
-</sub>
+<img
+  src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,bash&theme=dark"
+  alt="Programming Languages"
+/>
+
+<br/><br/>
+
+**WEB & MOBILE**
+
+<br/>
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,redux&theme=dark"
+  alt="Web and Mobile Technologies"
+/>
+
+<br/><br/>
+
+**BACKEND & DATA**
+
+<br/>
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,sqlite,firebase&theme=dark"
+  alt="Backend and Data Technologies"
+/>
+
+<br/><br/>
+
+**INFRASTRUCTURE & WORKFLOW**
+
+<br/>
+
+<img
+  src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,git,github,linux,postman,vscode,figma&theme=dark"
+  alt="Infrastructure and Development Tools"
+/>
 
 </div>
 
 <br/>
 
-<!-- ANALYTICS -->
+<!-- ===================================================== -->
+<!-- PROJECTS                                              -->
+<!-- ===================================================== -->
 
-## `// ENGINEERING ACTIVITY`
-
-<div align="center">
-
-### Contribution Activity
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rashad-omran&bg_color=020617&color=A5B4FC&line=7C3AED&point=38BDF8&area=true&area_color=312E81&hide_border=true&custom_title=Rashad%20Omran%20%2F%20Contribution%20Activity" />
-
-<br/><br/>
-
-### Contribution Streak
-
-<img width="72%" src="https://streak-stats.demolab.com?user=Rashad-omran&hide_border=true&background=020617&stroke=312E81&ring=7C3AED&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A5B4FC&sideLabels=94A3B8&dates=64748B" />
-
-<br/><br/>
+## `03 // SELECTED SYSTEMS`
 
 <table>
 <tr>
-<td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rashad-omran&show_icons=true&hide_border=true&bg_color=020617&title_color=818CF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=7C3AED&include_all_commits=true"/>
-
-</td>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashad-omran&layout=compact&hide_border=true&bg_color=020617&title_color=818CF8&text_color=CBD5E1&langs_count=8"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- PROJECTS -->
-
-## `// SELECTED SYSTEMS`
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### `01` OneStore
 
-Commerce platform built around the full product and sales lifecycle — product variations, storefront ordering, inventory workflows and point-of-sale operations.
+A commerce platform covering the product and sales lifecycle — from product variations and storefront ordering to inventory and point-of-sale workflows.
 
-**Engineering:**  
+**Core engineering**
+
 `Node.js` · `PostgreSQL` · `React` · `REST APIs`
 
 </td>
@@ -128,22 +137,26 @@ Commerce platform built around the full product and sales lifecycle — product 
 
 ### `02` Seen
 
-Multi-channel social media management system focused on communication, automation, publishing workflows and account management.
+A multi-channel social media management system designed around communication, publishing, automation, and account-management workflows.
 
-**Engineering:**  
+**Core engineering**
+
 `Node.js` · `React` · `Meta APIs` · `Automation`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### `03` MindEase
 
-Web and mobile platform bringing remote sessions, assessments, digital content and supporting services into one product.
+A web and mobile platform combining remote sessions, assessments, digital content, and supporting services into a single product experience.
 
-**Engineering:**  
+**Core engineering**
+
 `React Native` · `React` · `Node.js` · `Python` · `MongoDB`
 
 </td>
@@ -152,22 +165,76 @@ Web and mobile platform bringing remote sessions, assessments, digital content a
 
 ### `04` Systems & Experiments
 
-A collection of work across backend architecture, mobile development, infrastructure and automation.
+Work across backend architecture, mobile development, infrastructure, integrations, and automation.
 
-Some production work lives in private repositories.
+A significant part of my production work lives in private repositories.
 
-**Focus:**  
-`Backend` · `Mobile` · `Infrastructure` · `Automation`
+**Current focus**
+
+`Backend` · `Mobile` · `Infrastructure` · `Security`
 
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- CURRENT DIRECTION -->
+<!-- ===================================================== -->
+<!-- METRICS                                               -->
+<!-- ===================================================== -->
 
-## `// CURRENT DIRECTION`
+## `04 // ENGINEERING INTELLIGENCE`
+
+<div align="center">
+
+<br/>
+
+<img
+  src="./assets/metrics.svg"
+  width="100%"
+  alt="Rashad Omran GitHub Metrics"
+/>
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- CONTRIBUTION ANIMATION                                -->
+<!-- ===================================================== -->
+
+## `05 // CONTRIBUTION FLOW`
+
+<div align="center">
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/snake-dark.svg"
+    width="100%"
+    alt="Rashad Omran Contribution Animation"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- CURRENT DIRECTION                                     -->
+<!-- ===================================================== -->
+
+## `06 // CURRENT VECTOR`
 
 ```text
 SOFTWARE ENGINEERING  ████████████████████████████████  BUILDING
@@ -176,17 +243,19 @@ BACKEND SYSTEMS       ███████████████████�
 CYBERSECURITY         ███████████████████░░░░░░░░░░░░  MSc
 ```
 
-My work is increasingly moving toward the intersection of **software engineering, system architecture, and cybersecurity**.
+My current direction sits at the intersection of **software engineering, system architecture, and cybersecurity**.
 
-Not just shipping features — understanding the systems behind them.
+Building the system is one part of the job. Understanding its boundaries, failure modes, and attack surface is becoming the other.
 
 <br/>
 
-<!-- CONTACT -->
+<!-- ===================================================== -->
+<!-- CONTACT                                               -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-## `// OPEN CHANNEL`
+## `07 // OPEN CHANNEL`
 
 ### Have a problem worth solving?
 
@@ -195,15 +264,26 @@ Good software starts with understanding the problem — not choosing the framewo
 <br/>
 
 <a href="https://www.linkedin.com/in/rashadomran">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
 </a>
+
 &nbsp;
+
 <a href="mailto:rashadomran03@gmail.com">
-  <img src="https://img.shields.io/badge/START_A_CONVERSATION-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/START_A_CONVERSATION-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send Email"
+  />
 </a>
 
 <br/><br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,45:312E81,100:020617"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,45:312E81,100:020617"
+/>
 
 </div>
