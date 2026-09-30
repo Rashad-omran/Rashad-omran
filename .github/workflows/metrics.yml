@@ -9,6 +9,7 @@ permissions:
   contents: write
 
 jobs:
+
   languages:
     name: Generate Language Distribution
     runs-on: ubuntu-latest
@@ -30,6 +31,7 @@ jobs:
           plugin_languages_threshold: 0%
           config_timezone: Europe/Malta
 
+
   streak:
     name: Generate Contribution Streak
     runs-on: ubuntu-latest
@@ -38,15 +40,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate streak card
+      - name: Generate streak.svg
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         run: |
-          mkdir -p assets
+          python .github/scripts/generate-streak.py
 
-          curl -L \
-            "https://streak-stats.demolab.com?user=Rashad-omran&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" \
-            -o assets/streak.svg
-
-      - name: Commit streak card
+      - name: Commit streak.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -60,6 +60,7 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
 
   activity:
     name: Generate Contribution Activity
