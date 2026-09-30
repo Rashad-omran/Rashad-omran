@@ -93,36 +93,18 @@ Web and mobile platform for remote care and digital assessments.
 
 <div align="center">
 
-### Contribution Activity
-
-<img width="100%" src="./assets/activity.svg" alt="Rashad Omran Contribution Activity"/>
-
-<br/>
-
 ### Language Distribution
 
 <img width="100%" src="./assets/languages.svg" alt="Rashad Omran Language Distribution"/>
 
-<br/>
+<br/><br/>
 
-### Contribution Streak
-
-<img width="72%" src="https://streak-stats.demolab.com?user=Rashad-omran&hide_border=true&background=0D1117&stroke=312E81&ring=7C3AED&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A5B4FC&sideLabels=94A3B8&dates=64748B" alt="Contribution Streak"/>
-
-</div>
-
-<br/>
-
----
-
-## `04 // CONTRIBUTION FLOW`
-
-<div align="center">
+### Contribution Activity
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-snake.svg"/>
-<img width="100%" src="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-snake-dark.svg" alt="Contribution Snake"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-contribution-grid-snake-dark.svg" alt="Rashad Omran Contribution Activity"/>
 </picture>
 
 </div>
@@ -131,7 +113,71 @@ Web and mobile platform for remote care and digital assessments.
 
 ---
 
-## `05 // CURRENT FOCUS`
+## `04 // SELECTED SYSTEMS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### OneStore
+
+Product and commerce infrastructure spanning inventory, storefront ordering and point-of-sale workflows.
+
+**Core**
+
+`Node.js` · `PostgreSQL` · `React`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Seen
+
+Multi-channel communication and social media management with publishing and automation workflows.
+
+**Core**
+
+`Node.js` · `React` · `Meta APIs`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### MindEase
+
+Web and mobile platform combining remote sessions, assessments and digital content.
+
+**Core**
+
+`React Native` · `Node.js` · `Python` · `MongoDB`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering Work
+
+Backend architecture, mobile systems, infrastructure and automation across production and private repositories.
+
+**Focus**
+
+`Backend` · `Mobile` · `Infrastructure` · `Automation`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `05 // CURRENT DIRECTION`
 
 <div align="center">
 
@@ -140,9 +186,9 @@ Web and mobile platform for remote care and digital assessments.
 
 <td width="25%" align="center">
 
-**BUILD**
+### BUILD
 
-Software Engineering
+**Software**
 
 `Web` `Mobile`
 
@@ -150,9 +196,9 @@ Software Engineering
 
 <td width="25%" align="center">
 
-**ENGINEER**
+### ENGINEER
 
-Backend Systems
+**Backend**
 
 `APIs` `Data`
 
@@ -160,19 +206,19 @@ Backend Systems
 
 <td width="25%" align="center">
 
-**DESIGN**
+### DESIGN
 
-Architecture
+**Systems**
 
-`Systems` `Infra`
+`Architecture` `Infra`
 
 </td>
 
 <td width="25%" align="center">
 
-**SECURE**
+### SECURE
 
-Cybersecurity
+**Cybersecurity**
 
 `MSc` `AppSec`
 
@@ -183,7 +229,7 @@ Cybersecurity
 
 <br/>
 
-**BUILD** `→` **ENGINEER** `→` **DESIGN** `→` **SECURE**
+`BUILD` **→** `ENGINEER` **→** `DESIGN` **→** `SECURE`
 
 </div>
 
@@ -197,9 +243,9 @@ Cybersecurity
 
 ### Have a problem worth solving?
 
-<sub>Good software starts with understanding the problem.</sub>
+Good software starts with understanding the problem.
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/rashadomran">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
