@@ -34,23 +34,64 @@ Currently pursuing a **Master's in Cybersecurity**, bringing security closer to 
 
 ---
 
+
 ## `02 // ENGINEERING TOOLKIT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,bash&theme=dark" />
+<img height="40" src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img height="40" src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img height="40" src="https://img.shields.io/badge/Dart-18181B?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+<img height="40" src="https://img.shields.io/badge/C++-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img height="40" src="https://img.shields.io/badge/Bash-18181B?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img height="40" src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img height="40" src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css&logoColor=1572B6"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,redux&theme=dark" />
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,sqlite,firebase&theme=dark" />
+<img height="40" src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img height="40" src="https://img.shields.io/badge/React_Native-18181B?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img height="40" src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img height="40" src="https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+<img height="40" src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img height="40" src="https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img height="40" src="https://img.shields.io/badge/Redux-18181B?style=for-the-badge&logo=redux&logoColor=764ABC"/>
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,git,github,linux,postman,vscode,figma&theme=dark" />
+<br/>
+
+<img height="40" src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+<img height="40" src="https://img.shields.io/badge/NestJS-18181B?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+<img height="40" src="https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img height="40" src="https://img.shields.io/badge/Fastify-18181B?style=for-the-badge&logo=fastify&logoColor=FFFFFF"/>
+<img height="40" src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img height="40" src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img height="40" src="https://img.shields.io/badge/Redis-18181B?style=for-the-badge&logo=redis&logoColor=FF4438"/>
+<img height="40" src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=3E9BCD"/>
+<img height="40" src="https://img.shields.io/badge/Firebase-18181B?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+<br/>
+
+<img height="40" src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img height="40" src="https://img.shields.io/badge/Nginx-18181B?style=for-the-badge&logo=nginx&logoColor=009639"/>
+<img height="40" src="https://img.shields.io/badge/Cloudflare-18181B?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+<img height="40" src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img height="40" src="https://img.shields.io/badge/Netlify-18181B?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img height="40" src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img height="40" src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<br/>
+
+<img height="40" src="https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img height="40" src="https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img height="40" src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img height="40" src="https://img.shields.io/badge/Notion-18181B?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
+<img height="40" src="https://img.shields.io/badge/Jest-18181B?style=for-the-badge&logo=jest&logoColor=C21325"/>
+<img height="40" src="https://img.shields.io/badge/Vitest-18181B?style=for-the-badge&logo=vitest&logoColor=6E9F18"/>
 
 </div>
 
 <br/>
 
----
 
 ## `03 // ENGINEERING ACTIVITY`
 
