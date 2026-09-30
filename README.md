@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # RASHAD OMRAN
@@ -60,6 +59,12 @@ Currently pursuing a **Master's in Cybersecurity**, bringing security closer to 
 ### Contribution Activity
 
 <img width="100%" src="./assets/contribution-graph.svg" alt="Contribution Activity"/>
+
+<br/>
+
+### Contribution Streak
+
+<img width="100%" src="./assets/streak.svg" alt="Contribution Streak"/>
 
 <br/>
 
