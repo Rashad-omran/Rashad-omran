@@ -2,52 +2,73 @@
 
 # RASHAD OMRAN
 
-### Software Engineer × Cybersecurity
+### Software Engineer · Cybersecurity MSc
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Building+software+that+solves+real+problems.;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Learning+how+systems+break+to+build+them+better." alt="Typing Animation"/>
-</a>
-
-<br/>
-
-Software engineer working across **web, mobile, and backend systems**.  
-Currently pursuing an **MSc in Cybersecurity**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Building+systems+for+the+real+world.;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Build+it.+Understand+it.+Secure+it." alt="Typing animation"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rashadomran">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" height="29"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:rashadomran03@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" height="29"/>
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 <br/>
 
----
+## `01 // PROFILE`
 
-## `01 // ENGINEERING TOOLKIT`
+Software engineer building across **web, mobile, backend systems, and infrastructure**.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,react,nextjs,flutter,nodejs,nestjs,express,postgres,mongodb,redis&theme=dark&perline=14"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,docker,nginx,cloudflare,vercel,git,github,linux,bash,postman,vscode,figma,tailwind&theme=dark&perline=14"/>
+Currently pursuing a **Master's in Cybersecurity**, with a growing focus on the point where software engineering, architecture, and security meet.
 
 <br/>
 
-<sub>WEB · MOBILE · BACKEND · DATA · INFRASTRUCTURE</sub>
+## `02 // ENGINEERING TOOLKIT`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,bash&theme=dark" alt="Languages"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,redux&theme=dark" alt="Frontend and Mobile"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,sqlite,firebase&theme=dark" alt="Backend and Data"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,git,github,linux,postman,vscode,figma&theme=dark" alt="Infrastructure and Tools"/>
 
 </div>
 
 <br/>
 
----
+## `03 // ENGINEERING ACTIVITY`
 
-## `02 // SELECTED WORK`
+<div align="center">
+
+### Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rashad-omran&bg_color=0D1117&color=A5B4FC&line=7C3AED&point=38BDF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+
+<br/><br/>
+
+### Language Distribution
+
+<img width="100%" src="./assets/languages.svg" alt="Language Distribution"/>
+
+</div>
+
+<br/>
+
+## `04 // SELECTED SYSTEMS`
 
 <table>
 <tr>
@@ -56,7 +77,9 @@ Currently pursuing an **MSc in Cybersecurity**.
 
 ### `01` OneStore
 
-Commerce platform for products, inventory, storefronts and point-of-sale.
+Commerce platform covering the product and sales lifecycle — inventory, storefront ordering, product variations and point-of-sale workflows.
+
+<br/>
 
 `Node.js` `PostgreSQL` `React`
 
@@ -66,7 +89,9 @@ Commerce platform for products, inventory, storefronts and point-of-sale.
 
 ### `02` Seen
 
-Multi-channel social media management and automation.
+Multi-channel social media management system built around communication, publishing workflows and automation.
+
+<br/>
 
 `Node.js` `React` `Meta APIs`
 
@@ -76,7 +101,9 @@ Multi-channel social media management and automation.
 
 ### `03` MindEase
 
-Web and mobile platform for remote care and digital assessments.
+Web and mobile platform bringing remote sessions, assessments and digital services into one product.
+
+<br/>
 
 `React Native` `Node.js` `Python`
 
@@ -87,99 +114,7 @@ Web and mobile platform for remote care and digital assessments.
 
 <br/>
 
----
-
-## `03 // ENGINEERING ACTIVITY`
-
-<div align="center">
-
-### Language Distribution
-
-<img width="100%" src="./assets/languages.svg" alt="Rashad Omran Language Distribution"/>
-
-<br/><br/>
-
-### Contribution Activity
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-contribution-grid-snake.svg"/>
-<img width="100%" src="https://raw.githubusercontent.com/Rashad-omran/Rashad-omran/output/github-contribution-grid-snake-dark.svg" alt="Rashad Omran Contribution Activity"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-## `04 // SELECTED SYSTEMS`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### OneStore
-
-Product and commerce infrastructure spanning inventory, storefront ordering and point-of-sale workflows.
-
-**Core**
-
-`Node.js` · `PostgreSQL` · `React`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Seen
-
-Multi-channel communication and social media management with publishing and automation workflows.
-
-**Core**
-
-`Node.js` · `React` · `Meta APIs`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### MindEase
-
-Web and mobile platform combining remote sessions, assessments and digital content.
-
-**Core**
-
-`React Native` · `Node.js` · `Python` · `MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering Work
-
-Backend architecture, mobile systems, infrastructure and automation across production and private repositories.
-
-**Focus**
-
-`Backend` · `Mobile` · `Infrastructure` · `Automation`
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-## `05 // CURRENT DIRECTION`
-
-<div align="center">
+## `05 // CURRENT FOCUS`
 
 <table>
 <tr>
@@ -188,9 +123,9 @@ Backend architecture, mobile systems, infrastructure and automation across produ
 
 ### BUILD
 
-**Software**
+**Software Engineering**
 
-`Web` `Mobile`
+`Web` · `Mobile`
 
 </td>
 
@@ -198,9 +133,9 @@ Backend architecture, mobile systems, infrastructure and automation across produ
 
 ### ENGINEER
 
-**Backend**
+**Backend Systems**
 
-`APIs` `Data`
+`APIs` · `Data`
 
 </td>
 
@@ -208,9 +143,9 @@ Backend architecture, mobile systems, infrastructure and automation across produ
 
 ### DESIGN
 
-**Systems**
+**Architecture**
 
-`Architecture` `Infra`
+`Systems` · `Infra`
 
 </td>
 
@@ -220,16 +155,18 @@ Backend architecture, mobile systems, infrastructure and automation across produ
 
 **Cybersecurity**
 
-`MSc` `AppSec`
+`MSc` · `AppSec`
 
 </td>
 
 </tr>
 </table>
 
+<div align="center">
+
 <br/>
 
-`BUILD` **→** `ENGINEER` **→** `DESIGN` **→** `SECURE`
+`BUILD` → `ENGINEER` → `DESIGN` → `SECURE`
 
 </div>
 
@@ -243,20 +180,20 @@ Backend architecture, mobile systems, infrastructure and automation across produ
 
 ### Have a problem worth solving?
 
-Good software starts with understanding the problem.
+Good software starts with understanding the problem — not choosing the framework.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rashadomran">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:rashadomran03@gmail.com">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<sub>Rashad Omran · Software Engineering × Cybersecurity</sub>
+<sub>Software Engineering × System Architecture × Cybersecurity</sub>
 
 </div>
