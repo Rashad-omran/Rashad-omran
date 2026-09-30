@@ -1,0 +1,174 @@
+name: Test Contribution Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Query GitHub contribution data
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: |
+          python <<'PY'
+          import os
+          import json
+          import urllib.request
+          from datetime import datetime, timezone
+
+          token = os.environ["PROFILE_TOKEN"]
+
+          now = datetime.now(timezone.utc)
+          year = now.year
+
+          query = """
+          query($login: String!, $from: DateTime!, $to: DateTime!) {
+            user(login: $login) {
+              login
+
+              contributionsCollection(
+                from: $from
+                to: $to
+              ) {
+                startedAt
+                endedAt
+
+                restrictedContributionsCount
+                totalCommitContributions
+                totalIssueContributions
+                totalPullRequestContributions
+                totalPullRequestReviewContributions
+
+                contributionCalendar {
+                  totalContributions
+
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          variables = {
+              "login": "Rashad-omran",
+              "from": f"{year}-01-01T00:00:00Z",
+              "to": now.isoformat().replace("+00:00", "Z")
+          }
+
+          payload = json.dumps({
+              "query": query,
+              "variables": variables
+          }).encode("utf-8")
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              method="POST",
+              headers={
+                  "Authorization": f"Bearer {token}",
+                  "Content-Type": "application/json",
+                  "User-Agent": "Rashad-Profile-Metrics"
+              }
+          )
+
+          try:
+              with urllib.request.urlopen(request) as response:
+                  result = json.loads(
+                      response.read().decode("utf-8")
+                  )
+          except Exception as error:
+              print("REQUEST FAILED")
+              print(error)
+              raise
+
+          if result.get("errors"):
+              print("GRAPHQL ERRORS:")
+              print(json.dumps(result["errors"], indent=2))
+              raise SystemExit(1)
+
+          user = result["data"]["user"]
+
+          if user is None:
+              raise RuntimeError("User Rashad-omran was not found.")
+
+          collection = user["contributionsCollection"]
+          calendar = collection["contributionCalendar"]
+
+          days = []
+
+          for week in calendar["weeks"]:
+              days.extend(week["contributionDays"])
+
+          days.sort(key=lambda day: day["date"])
+
+          active_days = [
+              day for day in days
+              if day["contributionCount"] > 0
+          ]
+
+          print("")
+          print("=" * 55)
+          print("GITHUB CONTRIBUTION TEST")
+          print("=" * 55)
+
+          print(f"User: {user['login']}")
+          print(f"Year: {year}")
+          print("")
+
+          print(
+              "TOTAL CONTRIBUTIONS:",
+              calendar["totalContributions"]
+          )
+
+          print(
+              "TOTAL COMMITS:",
+              collection["totalCommitContributions"]
+          )
+
+          print(
+              "PULL REQUESTS:",
+              collection["totalPullRequestContributions"]
+          )
+
+          print(
+              "PULL REQUEST REVIEWS:",
+              collection["totalPullRequestReviewContributions"]
+          )
+
+          print(
+              "ISSUES:",
+              collection["totalIssueContributions"]
+          )
+
+          print(
+              "RESTRICTED/PRIVATE:",
+              collection["restrictedContributionsCount"]
+          )
+
+          print("")
+
+          if days:
+              print("FIRST DAY RETURNED:", days[0]["date"])
+              print("LAST DAY RETURNED:", days[-1]["date"])
+
+          if active_days:
+              print(
+                  "LAST ACTIVE DAY:",
+                  active_days[-1]["date"]
+              )
+
+              print(
+                  "LAST ACTIVE DAY CONTRIBUTIONS:",
+                  active_days[-1]["contributionCount"]
+              )
+
+          print("=" * 55)
+          print("")
+          PY
